@@ -1,0 +1,13 @@
+.external{
+	color: #2587E4;
+			font-style: italic;
+			text-align: center;
+			font-size: 50px;
+}
+/*id Selector*/
+#first_div{
+	color: #93187E;
+}
+body{
+	background: #EF3198;
+}
